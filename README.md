@@ -4,5 +4,5 @@ Repozyrorium projektu inżynierskiego pt. "Gra typu arenowy roguelike shooter os
 
 # Zawartość:
 
-- Aplikacja.zip - archiwum zawierajace zbudowaną wersję aplikacji
-- Przkład użycia.zip - archiwum zawierające krótki film prezentujacy aplikację
+- Aplikacja.7z - archiwum zawierajace zbudowaną wersję aplikacji
+- Przkład użycia.7z - archiwum zawierające krótki film prezentujacy aplikację
